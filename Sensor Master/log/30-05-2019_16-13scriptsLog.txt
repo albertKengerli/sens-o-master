@@ -1,0 +1,54 @@
+Script#1. Cond#1Нынешний statint:22
+Sign: ">"
+Value = 5
+Script#1. Начал работу
+Script#1. Выполнен
+30.05.2019 16:04:45
+Script#1. Cond#1Нынешний statint:22
+Sign: ">"
+Value = 5
+Script#1. Начал работу
+Script#1. Выполнен
+30.05.2019 16:05:45
+Script#1. Cond#1Нынешний statint:22
+Sign: ">"
+Value = 5
+Script#1. Начал работу
+Script#1. Выполнен
+30.05.2019 16:06:45
+Script#1. Cond#1Нынешний statint:22
+Sign: ">"
+Value = 5
+Script#1. Начал работу
+Script#1. Выполнен
+30.05.2019 16:07:44
+Script#1. Cond#1Нынешний statint:22
+Sign: ">"
+Value = 5
+Script#1. Начал работу
+Script#1. Выполнен
+30.05.2019 16:08:45
+Script#1. Cond#1Нынешний statint:22
+Sign: ">"
+Value = 5
+Script#1. Начал работу
+Script#1. Выполнен
+30.05.2019 16:09:45
+Script#1. Cond#1Нынешний statint:22
+Sign: ">"
+Value = 5
+Script#1. Начал работу
+Script#1. Выполнен
+30.05.2019 16:10:45
+Script#1. Cond#1Нынешний statint:23
+Sign: ">"
+Value = 5
+Script#1. Начал работу
+Script#1. Выполнен
+30.05.2019 16:11:44
+Script#1. Cond#1Нынешний statint:23
+Sign: ">"
+Value = 5
+Script#1. Начал работу
+Script#1. Выполнен
+30.05.2019 16:12:45

@@ -1,0 +1,133 @@
+object Form3: TForm3
+  Left = 572
+  Height = 336
+  Top = 263
+  Width = 416
+  BorderStyle = bsSingle
+  Caption = 'Добавление датчика'
+  ClientHeight = 336
+  ClientWidth = 416
+  Color = clForm
+  Position = poScreenCenter
+  LCLVersion = '2.0.2.0'
+  object Label1: TLabel
+    Left = 10
+    Height = 21
+    Top = 6
+    Width = 93
+    Caption = 'Имя датчика'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Color = clBlack
+    Font.Height = -16
+    Font.Name = 'Segoe UI'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 10
+    Height = 21
+    Top = 64
+    Width = 206
+    Caption = 'Единица измерения датчика'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Color = clBlack
+    Font.Height = -16
+    Font.Name = 'Segoe UI'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 10
+    Height = 21
+    Top = 120
+    Width = 270
+    Caption = 'Команда на опрос состояния датчика'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Color = clBlack
+    Font.Height = -16
+    Font.Name = 'Segoe UI'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label4: TLabel
+    Left = 10
+    Height = 21
+    Top = 232
+    Width = 174
+    Caption = 'Частота опроса датчика'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Color = clBlack
+    Font.Height = -16
+    Font.Name = 'Segoe UI'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label5: TLabel
+    Left = 10
+    Height = 21
+    Top = 176
+    Width = 294
+    Caption = 'Номер параметра со значением в ответе'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Color = clBlack
+    Font.Height = -16
+    Font.Name = 'Segoe UI'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object Edit1: TEdit
+    Left = 10
+    Height = 23
+    Top = 32
+    Width = 398
+    TabOrder = 0
+  end
+  object Edit2: TEdit
+    Left = 10
+    Height = 23
+    Top = 88
+    Width = 398
+    TabOrder = 1
+  end
+  object Edit3: TEdit
+    Left = 10
+    Height = 23
+    Top = 144
+    Width = 398
+    TabOrder = 2
+  end
+  object Edit4: TEdit
+    Left = 10
+    Height = 23
+    Top = 200
+    Width = 398
+    TabOrder = 3
+  end
+  object Edit5: TEdit
+    Left = 10
+    Height = 23
+    Top = 256
+    Width = 398
+    TabOrder = 4
+    TextHint = 'Введите частоту в секундах'
+  end
+  object Button1: TButton
+    Left = 265
+    Height = 34
+    Top = 288
+    Width = 143
+    Caption = 'Сохранить датчик'
+    OnClick = Button1Click
+    TabOrder = 5
+  end
+end
